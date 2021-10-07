@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">lab_1</string>
+    <string name="app_name">Super_Program</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="string_button_1">string/button_1</string>
-    <string name="string_button_2">string/button_2</string>
-    <string name="string_text_second">string/text_second</string>
-    <string name="string_button_3">string/button_3</string>
-    <string name="string_button_4">string/button_4</string>
-    <string name="string_text_first">string/text_first</string>
-    <string name="string_string_button_1">string/string_button_1</string>
+    <string name="hello_blank_fragment"></string>
+    <string name="string_button_1">Click on me</string>
+    <string name="string_button_2">Left</string>
+    <string name="string_text_second">This is button</string>
+    <string name="string_button_3">Middle</string>
+    <string name="string_button_4">Right</string>
+    <string name="string_text_first">Many buttons</string>
+    <string name="string_string_button_1">Click on me</string>
 </resources>
